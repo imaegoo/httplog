@@ -48,7 +48,6 @@ function formatReq(req) {
             logStr += `\n\t\t${req.body}`
         }
     }
-    console.log(req)
     return logStr
 }
 

@@ -26,3 +26,9 @@ info: 2019-07-25 18:04:36
 			requestId: 456
 		timestamp: 0
 ```
+
+Usage:
+```
+npm install
+node app.js
+```
